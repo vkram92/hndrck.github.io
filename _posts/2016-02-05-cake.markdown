@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Education"
+date:   2016-02-05 15:08:10 -0500
+img: img/portfolio/cake.png
+modalID: modalCake
+category: Design
+---
+<div align="left">
+<p>Studying philosophy of technology, phenomenology of the internet, and digital policy has enabled me to apply theory into practice while working on professional and personal projects. I’m constantly striving to find a balance between practical knowledge and theoretical understanding. I enjoy reading books on philosophy and design, as well as taking online courses to improve and master my skills using digital tools. </p>
+      </div>
+<section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>University</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2014 - 2015</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>MSc Philosophy and Public Policy</b></p>
+        <p>London School of Economics</p>
+            
+<p>Graduated with merit from interdisciplinary studies applying philosophical theory into policy practices, with a focus on digital policy and philosophy of technology. Dissertation introduced the concept of a cyber-harm principle to synthesise the conflict between cyber-libertarianism and cyber-paternalism.
+</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2010 - 2014</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>BA (Hons) Philosophy and Political Science</b></p>
+        <p>University of Guelph</p>
+        
+<p>Graduated with distinction from a double major in Philosophy and Political Science. Researched and wrote two honours theses: one focusing on phenomenology of the internet. The other involved a comparative analysis of monetary policy within Canada and the UK, researching the potential conflict central banks may have on principles of democracy. 
+</p>
+      <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Independent Study</h3>
+      </div>
+  <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>User Experience Design</b></p>
+        <p>General Assembly</p>
+        
+<p>Completed an accelerated user experience design course which began with defining a problem and going through design process to find a solution. It involved conducting user-research, experience mapping, wireframing, rapid prototyping, usability testing, and presenting our work in a final presentation.</p>
+        
+<p><a href="/docs/GA-Presentation.pdf" target="_blank">Final presentation</a></p>
+
+<p><a href="/docs/GA-UXD-Certificate.pdf" target="_blank">View certificate</a></p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Design Kit: The Course for Human-Centered Design</b></p>
+        <p>IDEO</p>
+        
+<p>Successfully completed an intensive course run by IDEO, in a team with two other designers based in Toronto. We collaborated on a design challenge to go through the stages of inspiration, ideation, and implementation.</p>
+        
+<p><a href="/docs/IDEO-Presentation.pdf" target="_blank">Learning outcomes and final project</a></p>
+
+<p><a href="/docs/IDEO-HCD-Certificate.pdf" target="_blank">Statement of Accomplishment</a></p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Practitioner in Agile</b></p>
+        <p>British Computer Society</p>
+        
+<p>Pursued a 12-week part-time training course provided by <i>emergn</i> around the fundamental principles of agile, lean, and user-centred design. Successfully completed exam provided by the British Computer Society.</p>
+    
+<p><a href="/docs/Agile-presentation.pdf" target="_blank">How I applied my learning while working as a Scrum Master</a></p>
+
+<p><a href="/docs/Agile-Practitioner.pdf" target="_blank">Agile Practitioner certification</a></p>
+        <br> <br> <br>
+      </div>
+</section>

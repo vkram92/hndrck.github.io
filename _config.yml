@@ -1,0 +1,45 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Brian Hendrick
+email: b.r.hendrick@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  agile practitioner - design thinker - service innovator
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://brianhendrick.com" # the base hostname & protocol for your site
+enforce_ssl: "brianhendrick.com"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ffffff #80B3FF
+  primary-rgb: 000000 #"128,179,255"
+  secondary: f5f5f5 #FD6E8A
+  secondary-dark: 3c3c3c #A2122F
+  success: 3c3c3c
+
+# Social media profiles - feel free to add more here
+twitter_username: bhndrck
+#github_username:  hndrck
+#facebook_username: brianhendrick
+#instagram_username: rhymeswithzion
+#stackoverflow_url: https://
+#googleplus_username: BobMarley
+#skype_username: echo123
+linkedin_url: https://www.linkedin.com/in/hendrickbrian/
+#medium_username: brianhendrick
+
+# Address information
+address_street: Born in Toronto, Ontario, Canada
+address_city: Based in London, United Kingdom
+
+# Google Analytics
+
+google_analytics: "UA-110658197-1"
+
+# Build settings
+markdown: kramdown

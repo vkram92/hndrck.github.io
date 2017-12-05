@@ -1,0 +1,130 @@
+---
+layout: post
+title:  "Professional"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/cabin.png
+modalID: modalCabin
+category: Design
+---
+<div align="left">
+<p>I have extensive experience with:</p>
+<ul>
+<li><p><b>agile at scale</b> - working in organisations comprising of just four people to some of the largest government departments.</p></li>
+<li><p><b>end-to-end delivery</b> - from beginning stages of pre-discovery to fully-functional live services.</p></li> 
+<li><p><b>applying user centered design</b> - from experience mapping, building prototypes, conducting user research, and iterating based on feedback.</p></li>
+</ul>
+
+<p>With a speciality working in public services and digital government.</p>
+  <section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Work</h3>
+      </div>
+  <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Oct 2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Service Designer</b></p>
+        <p>Ministry of Justice</p>
+        
+<p>Designing for public facing and internal services within the scope of prisoner money. Building prototypes, usability testing, and experience mapping to ensure that end-to-end service delivery is constantly iterating to become more user-centred whilst saving costs.
+</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Apr 2017 - Sep 2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Digital Product Manager</b></p>
+        <p>OxFizz (secondment)</p>
+        
+<p>Responsible for digital transformation within a small commercially driven social enterprise. Successfully embedded agile and lean ways of working within the organisation, redesigned service delivery and automated processes to improve the experience of customers, volunteers, and staff.</p>
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Oct 2016 - Mar 2017</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Delivery Lead / Scrum Master</b></p>
+        <p>Her Majesty's Revenue and Customs</p>
+        
+<p>Led the delivery of a policy-driven digital service: Country-by-Country reporting. Worked in agile at scale, managed a small multidisciplinary team to deliver an unprecedented international project which collects data from multinational enterprises and shares it between tax authorities.
+</p>
+        <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Apr 2016 - Sep 2016</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Strategic Service Design Analyst</b></p>
+        <p>Department for Work and Pensions</p>
+        
+<p>Redesigned legacy services within DWP's digital portfolio to be more user-centred, cost-efficient, and aligned with departmental strategy. Developed business cases for transformational services which were prioritised and implemented by delivery teams.
+</p>
+        <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>Oct 2015 - Mar 2016</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Digital Policy Advisor</b></p>
+        <p>Government Digital Service</p>
+        
+<p>Worked within an agile and user-centred policy team to champion assisted digital and digital inclusion. Led the delivery and usability testing of a pilot project that researched assisted digital support for identity assurance, the findings were utilised in future iterations of the GOV.UK service manual.
+</p>
+        <br> <br> <br>
+      </div>
+      <hr width="100%" align="center">
+      <div align="left">
+        <h3>Skillset</h3>
+      </div>
+   <br>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>Agile Delivery</p></li>
+          <li><p>Design Thinking</p></li>
+          <li><p>Digital Policy</p></li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>Experience Mapping</p></li>
+          <li><p>HTMl and CSS</p></li>
+          <li><p>Prototyping</p></li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>Stakeholder Engagement</p></li>
+          <li><p>User Research</p></li>
+          <li class="baselinex0"><p>UX and Service Design</p></li>
+        </ul>
+        <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+<div align="left">
+        <h3>Toolset</h3>
+      </div>
+   <br>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>Adobe Creative Suite</p></li>
+          <li><p>Confluence</p></li>
+          <li><p>Google Suite</p></li>
+        </ul>
+      </div>
+    <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>InVision</p></li>
+          <li><p>JIRA</p></li>
+          <li><p>Marvel</p></li>
+        </ul>
+      </div>
+      <div class="col lg-3 md-4 sm-12 list-block" align="left">
+        <ul>
+          <li><p>Microsoft Office</p></li>
+          <li><p>Sketch</p></li>
+          <li class="baselinex0"><p>Trello</p></li>
+        </ul>
+      </div>
+    </section>

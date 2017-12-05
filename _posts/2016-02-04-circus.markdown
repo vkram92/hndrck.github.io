@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Personal"
+date:   2016-02-04 15:08:10 -0500
+img: img/portfolio/circus.png
+modalID: modalCircus
+category: Design
+---
+<div align="left">
+     <p>Avid music and art lover. You will find me at a concert, in a museum, art gallery, or browsing wikipedia enjoying the infinite amount of information provided by the internet. Here are some projects, organisations, and volunteering I engage with in my free time:</p>
+<section class="grid">
+      <hr>
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Projects</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>RWZ.IO</b></p>
+            
+<p>Created, designed, and developed a project which provides a digital space to curate audio-visual works of art. It embraces an ethos of openness, collaboration, and continuous improvement.</p>
+            
+<p><a href="https://rwz.io" target="_blank">View project</a></p>     
+      <br> <br> <br>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2015</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Digital Rendezvous: Experiences of Students, Staff, and Alumni on a Campus Memory Map</b></p>
+            
+<p>Collaborative research project for the Association for Advancement of Artificial Intelligence (AAAI). This project aimed to develop interactive maps, where students, stuff, and alumni could share their memories about a physical space: a university campus.</p>
+
+<p><a href="https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543" target="_blank">Presented at the 9th International AAAI Conference of Web and Social Media</a></p>
+      <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Fellowship</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>The RSA</b></p>
+        
+<p>Awarded fellowship of the Royal Society for the encouragement of Arts, Manufacturing, and Commerce.</p>
+  
+<p><a href="https://www.thersa.org/" target="_blank">Learn more about the RSA</a></p>
+        <br> <br> <br>
+      </div>
+<hr width="100%" align="center">
+      <div class="col lg-3 md-12 sm-12 section-title" align="left">
+        <h3>Volunteering</h3>
+      </div>
+      <div class="col lg-3 md-4 sm-12" align="left">
+        <p>2017 - Present</p>
+      </div>
+      <div class="col lg-6 md-8 sm-12" align="left">
+        <p><b>Disability Mentoring Scheme</b></p>
+        <p>London School of Economics</p>
+      
+<p>Provide support to an LSE student who shares similar experiences. Help advise with career aspirations and guidance disclosing disability when applying for jobs.</p>
+      
+<p><a href="https://info.lse.ac.uk/current-students/careers/services/for/students-with-disabilities/disability-mentoring-scheme" target="_blank">Learn more about the mentoring scheme</a></p>
+      </div>
+</section>
